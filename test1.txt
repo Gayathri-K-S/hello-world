@@ -1,4 +1,4 @@
 this is tst 2 
 All should get good marks
 no one should fail
-no
+not
